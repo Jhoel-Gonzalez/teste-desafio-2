@@ -1,0 +1,120 @@
+.pag-principal {
+    height: 100vh;
+    display: flex;
+    align-items: flex-end;
+    background: url(/assets/img/imagem-principal.png) no-repeat;
+}
+
+
+.txt1 {
+    font-size: 27px;
+}
+
+.txt2 {
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.txt3 {
+    font-size: 30px;
+}
+
+.destaque {
+    color: #00804b;
+}
+
+.contatar-me {
+    background-color: #00804b;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.contatar-me:hover {
+    color: black;
+}
+
+.contatar-me:active {
+    background-color: #3b7c61;
+}
+
+.foto-jhoel-gonzalez {
+    width: 200px;
+    height: 200px;
+    border: 3px solid #00804B;
+    border-radius: 50%;
+
+}
+
+.paragrafos-sobre-mim {
+    max-width: 400px;
+    margin-left: 10px;
+
+}
+
+.lh-paragrafo-sobre-mim {
+    line-height: 30px;
+}
+
+.largura-card {
+    max-width: 18rem;
+}
+
+.largura-formulario {
+    width: 30rem;
+}
+
+.imagens-contato {
+    max-width: 90px;
+    max-height: 90px;
+    margin: 0 25px;
+}
+
+.fonte-especial {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.background-sessoes {
+    background-color: #E8E8EA;
+}
+
+.navbar-bg-color {
+    padding: 13px;
+    background-color: #00804B;
+}
+
+.links-color {
+    color:white!important;
+}
+
+.active, .links-color:hover {
+    color:black!important;
+}
+
+.logo-nome {
+    color:black;
+}
+.logo-nome-color {
+    color: white !important;
+}
+
+.buttons-bg-color {
+    background-color: #00804B;
+    color: white;
+}
+
+.modal-button {
+    background-color: #00804b;
+    color: white;
+}
+
+.botao-ver-mais {
+    background-color: #00804b;
+    color: white;
+}
+
+ion-icon {
+    width: 30px;
+    height: 30px;
+    color: black;
+}
